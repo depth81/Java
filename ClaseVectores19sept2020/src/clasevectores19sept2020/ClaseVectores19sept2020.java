@@ -3,12 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package clasevectores19sept2020;
+import java.util.Scanner;
 
 /**
  *
  * @author p84029437
  */
-public class PAMI_202002 {
+public class ClaseVectores19sept2020 {
 
     /**
      * @param args the command line arguments
@@ -16,6 +18,13 @@ public class PAMI_202002 {
     public static void main(String[] args) {
         // TODO code application logic here
         
+            
+            
+        }
+        
+  
+     
     }
     
-}
+
+    
